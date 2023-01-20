@@ -109,7 +109,7 @@ CMake suite maintained and supported by Kitware (kitware.com/cmake).
 OpenGL is provided by tour graphics drivers so just ensure those are up to date.
 
 # Note on Projections
-You may see 2D vertex points multiplied with a 4x4 transformation matrix. This multiplication works on homogeneous coordinates.
+You may see 3D vertex points multiplied with a 4x4 transformation matrix. This multiplication works on homogeneous coordinates.
 For more information see https://www.tomdalling.com/blog/modern-opengl/explaining-homogenous-coordinates-and-projective-geometry/
 which discusses this and uses the same library to compute these transforms (glm) as in the project
 
