@@ -106,7 +106,7 @@ CMake suite maintained and supported by Kitware (kitware.com/cmake).
    o You will use glad.c under the src directory as and additional source file in your own
    OpenGL projects.
 
-OpenGL is provided by tour graphics drivers so just ensure those are up to date.
+OpenGL is provided by your graphics drivers so just ensure those are up to date.
 
 # Note on Projections
 You may see 3D vertex points multiplied with a 4x4 transformation matrix. This multiplication works on homogeneous coordinates.
