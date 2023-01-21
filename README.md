@@ -120,7 +120,7 @@ It also contains classed for defining object meshes and textures. scenerunner.h 
 2. The renderTests directory contains my code (which more or less follows the guide in the textbook).
 Most of the code is c++ but there are 4 shader files written in OpenGL shading language (.glsl extension). There are
 very simple vertex and fragment shaders for the background and teapot.
-3. The image in the background is in the media/texture directory and is a hdr.
+3. The image in the background is in the media/texture directory and is a hdr. The images used in the box reflections on the teapot are also in the media/texture directory.
 4. The build directory contains all the generated files from building the project. This is where the .exe file is 
 (build/renderTest/renderTest.exe).
 
